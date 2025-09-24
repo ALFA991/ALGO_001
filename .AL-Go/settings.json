@@ -4,5 +4,6 @@
   "appVersion": "24.0",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "artifact": "bcartifacts/OnPrem/24.0/de/closest"
 }
